@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="673" viewBox="0 0 480 673" role="img" aria-labelledby="title desc">
+  <title id="title">Hanna Zhang GitHub metrics</title>
+  <desc id="desc">A GitHub profile metrics dashboard for Hanna Zhang inspired by lowlighter metrics.</desc>
+  <style>
+    svg {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #fff;
+    }
+    .name { fill: #0969da; font-size: 20px; font-weight: 700; }
+    .heading { fill: #0969da; font-size: 16px; font-weight: 500; }
+    .text { fill: #666; font-size: 14px; }
+    .small { fill: #666; font-size: 11px; font-style: italic; }
+    .icon { fill: none; stroke: #8c959f; stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
+    .muted { fill: #eaeef2; }
+    .axis { fill: #eaeef2; }
+    .cube-top { fill: #9be9a8; }
+    .cube-left { fill: #2da44e; }
+    .cube-right { fill: #216e39; }
+    .cube-empty { fill: #eaeef2; }
+    .lang-python { fill: #3572A5; }
+    .lang-js { fill: #f1e05a; }
+    .lang-cs { fill: #178600; }
+    .lang-cpp { fill: #f34b7d; }
+    .lang-html { fill: #e34c26; }
+    .lang-css { fill: #563d7c; }
+    .lang-jupyter { fill: #da5b0b; }
+    .lang-other { fill: #555; }
+  </style>
+
+  <rect width="480" height="673" fill="#fff"/>
+
+  <!-- Header -->
+  <circle cx="36" cy="34" r="10" fill="#d0d7de"/>
+  <circle cx="33" cy="31" r="3" fill="#f6f8fa"/>
+  <path d="M28 40c3-6 13-6 16 0" fill="#f6f8fa"/>
+  <text x="53" y="39" class="name">Hanna Zhang</text>
+  <g transform="translate(28 51)">
+    <circle cx="4" cy="4" r="3" class="icon"/>
+    <path d="M8 10c-1-4-7-4-8 0" class="icon"/>
+  </g>
+  <text x="53" y="61" class="text">hanna0601 on GitHub</text>
+  <g transform="translate(28 72)">
+    <circle cx="4" cy="3" r="2.5" class="icon"/>
+    <circle cx="12" cy="3" r="2.5" class="icon"/>
+    <path d="M1 11c.5-4 6-4 6 0M9 11c.5-4 6-4 6 0" class="icon"/>
+  </g>
+  <text x="53" y="81" class="text">building AI, optimization, and web tools</text>
+
+  <g transform="translate(270 54)">
+    <rect x="0" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="15" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="30" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="45" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="60" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="75" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="90" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="105" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="120" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="135" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="150" y="0" width="11" height="11" rx="2" class="muted"/>
+    <rect x="165" y="0" width="11" height="11" rx="2" class="muted"/>
+  </g>
+  <g transform="translate(270 74)">
+    <path d="M0 5h9v9H0zM5 0v10M9 5h6" class="icon"/>
+  </g>
+  <text x="293" y="85" class="text">Contributed to 14+ repositories</text>
+
+  <!-- Activity left column -->
+  <g transform="translate(28 103)">
+    <path d="M0 11h16M1 10l4-5 4 3 6-8" class="icon"/>
+  </g>
+  <text x="53" y="113" class="heading">Activity</text>
+  <g transform="translate(28 124)"><path d="M0 2h14M2 8h10" class="icon"/></g>
+  <text x="53" y="132" class="text">RAG and retrieval systems</text>
+  <g transform="translate(28 145)"><path d="M1 0h12v12H1zM4 4h6M4 8h4" class="icon"/></g>
+  <text x="53" y="153" class="text">ML experiments and forecasting</text>
+  <g transform="translate(28 166)"><path d="M7 0v14M1 4h12M3 14l4-4 4 4" class="icon"/></g>
+  <text x="53" y="174" class="text">Search, games, and optimization</text>
+  <g transform="translate(28 187)"><circle cx="7" cy="7" r="6" class="icon"/><path d="M7 3v5l3 2" class="icon"/></g>
+  <text x="53" y="195" class="text">Interfaces for technical workflows</text>
+
+  <!-- Community right column -->
+  <g transform="translate(268 103)">
+    <path d="M2 5c2-5 9-5 11 0v6H2zM4 2l2 3M11 2 9 5" class="icon"/>
+  </g>
+  <text x="293" y="113" class="heading">Community stats</text>
+  <g transform="translate(268 124)"><path d="M1 1h12v12H1zM4 1v12M10 1v12M1 5h12M1 9h12" class="icon"/></g>
+  <text x="293" y="132" class="text">AI, games, and web projects</text>
+  <g transform="translate(268 145)"><circle cx="4" cy="4" r="3" class="icon"/><circle cx="12" cy="4" r="3" class="icon"/><path d="M0 13c1-4 7-4 8 0M8 13c1-4 7-4 8 0" class="icon"/></g>
+  <text x="293" y="153" class="text">Profile README</text>
+  <g transform="translate(268 166)"><path d="M7 1l2 4 5 .5-3.5 3.3 1 4.7L7 11l-4.5 2.5 1-4.7L0 5.5 5 5z" class="icon"/></g>
+  <text x="293" y="174" class="text">Curated featured repos</text>
+  <g transform="translate(268 187)"><path d="M1 7c3-5 11-5 14 0-3 5-11 5-14 0z"/><circle cx="8" cy="7" r="2" fill="#8c959f"/></g>
+  <text x="293" y="195" class="text">Practical builds</text>
+
+  <!-- Repositories and languages -->
+  <g transform="translate(28 223)">
+    <path d="M1 0h12v14H1zM4 4h6M4 8h6" class="icon"/>
+  </g>
+  <text x="53" y="233" class="heading">14+ repositories</text>
+  <g transform="translate(28 244)"><path d="M8 0 0 5l8 5 8-5zM0 10l8 5 8-5" class="icon"/></g>
+  <text x="53" y="254" class="text">fp-rag, EVOGAMI, Othello search</text>
+  <g transform="translate(28 265)"><path d="M2 0h8l4 4v10H2zM10 0v4h4" class="icon"/></g>
+  <text x="53" y="275" class="text">EV charging, forecasting, VAE work</text>
+  <g transform="translate(28 286)"><path d="M2 2h12v10H2zM5 5h6M5 9h4" class="icon"/></g>
+  <text x="53" y="296" class="text">Web tools, notes, and prototypes</text>
+
+  <g transform="translate(28 330)">
+    <path d="M2 2h12v10H2zM5 5l-3 2 3 2M11 5l3 2-3 2" class="icon"/>
+  </g>
+  <text x="53" y="340" class="heading">Languages</text>
+  <text x="187" y="368" class="heading">Most used languages</text>
+  <g transform="translate(26 376)">
+    <rect x="0" y="0" width="160" height="8" rx="4" class="lang-cs"/>
+    <rect x="160" y="0" width="68" height="8" class="lang-cpp"/>
+    <rect x="228" y="0" width="92" height="8" class="lang-python"/>
+    <rect x="320" y="0" width="38" height="8" class="lang-css"/>
+    <rect x="358" y="0" width="25" height="8" class="lang-html"/>
+    <rect x="383" y="0" width="23" height="8" class="lang-js"/>
+    <rect x="406" y="0" width="24" height="8" class="lang-other"/>
+    <rect x="430" y="0" width="28" height="8" rx="4" class="lang-jupyter"/>
+  </g>
+  <circle cx="78" cy="397" r="4" class="lang-cs"/><text x="94" y="402" class="text">C#</text>
+  <circle cx="149" cy="397" r="4" class="lang-cpp"/><text x="165" y="402" class="text">C++</text>
+  <circle cx="225" cy="397" r="4" class="lang-python"/><text x="241" y="402" class="text">Python</text>
+  <circle cx="318" cy="397" r="4" class="lang-css"/><text x="334" y="402" class="text">CSS</text>
+  <circle cx="77" cy="416" r="4" class="lang-js"/><text x="93" y="421" class="text">JavaScript</text>
+  <circle cx="225" cy="416" r="4" class="lang-other"/><text x="241" y="421" class="text">C</text>
+  <circle cx="282" cy="416" r="4" class="lang-jupyter"/><text x="298" y="421" class="text">Jupyter Notebook</text>
+
+  <!-- Calendar -->
+  <g transform="translate(28 437)">
+    <path d="M1 3h14v12H1zM4 0v5M12 0v5M1 7h14" class="icon"/>
+  </g>
+  <text x="53" y="447" class="heading">Contributions calendar</text>
+
+  <g transform="translate(23 455)">
+    <polygon points="46,0 223,103 175,131 0,28" class="axis"/>
+    <g transform="translate(20 20)">
+      <polygon points="0,6 10,0 20,6 10,12" class="cube-top"/><polygon points="0,6 10,12 10,31 0,25" class="cube-left"/><polygon points="10,12 20,6 20,25 10,31" class="cube-right"/>
+    </g>
+    <g transform="translate(42 45)">
+      <polygon points="0,6 10,0 20,6 10,12" class="cube-top"/><polygon points="0,6 10,12 10,24 0,18" class="cube-left"/><polygon points="10,12 20,6 20,18 10,24" class="cube-right"/>
+    </g>
+    <g transform="translate(55 39)">
+      <polygon points="0,5 8,0 16,5 8,10" class="cube-top"/><polygon points="0,5 8,10 8,20 0,15" class="cube-left"/><polygon points="8,10 16,5 16,15 8,20" class="cube-right"/>
+    </g>
+    <g transform="translate(68 32)">
+      <polygon points="0,4 8,0 16,4 8,8" class="cube-top"/><polygon points="0,4 8,8 8,14 0,10" class="cube-left"/><polygon points="8,8 16,4 16,10 8,14" class="cube-right"/>
+    </g>
+    <g transform="translate(84 25)">
+      <polygon points="0,4 8,0 16,4 8,8" class="cube-top"/><polygon points="0,4 8,8 8,12 0,8" class="cube-left"/><polygon points="8,8 16,4 16,8 8,12" class="cube-right"/>
+    </g>
+    <g transform="translate(203 91)">
+      <polygon points="0,5 9,0 18,5 9,10" class="cube-top"/><polygon points="0,5 9,10 9,20 0,15" class="cube-left"/><polygon points="9,10 18,5 18,15 9,20" class="cube-right"/>
+    </g>
+  </g>
+
+  <g transform="translate(268 467)">
+    <path d="M1 4h14M1 8h14M1 12h14" class="icon"/>
+  </g>
+  <text x="293" y="477" class="heading">Commit streaks</text>
+  <g transform="translate(268 488)"><path d="M7 0v14M0 7h14M2 2l10 10M12 2 2 12" class="icon"/></g>
+  <text x="293" y="496" class="text">Focused project bursts</text>
+  <g transform="translate(268 509)"><path d="M1 7h12M3 5l-2 2 2 2M11 5l2 2-2 2" class="icon"/></g>
+  <text x="293" y="517" class="heading">Commits per day</text>
+  <g transform="translate(268 530)"><path d="M7 0v14M3 4h8M5 10h4" class="icon"/></g>
+  <text x="293" y="538" class="text">AI, ML, web, and game work</text>
+  <g transform="translate(268 551)"><path d="M7 0v14M2 3h10M3 11h8" class="icon"/></g>
+  <text x="293" y="559" class="text">Updated by GitHub Actions</text>
+
+  <text x="246" y="622" text-anchor="middle" class="small">These metrics can include private contributions when METRICS_TOKEN is configured</text>
+  <text x="246" y="636" text-anchor="middle" class="small">Generated for hanna0601 with lowlighter/metrics-style layout</text>
+</svg>
