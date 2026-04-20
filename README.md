@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**hanna0601/hanna0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hanna Zhang
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanna0601&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna0601&layout=compact&theme=github_dark)
+
+## Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanna0601&theme=github-dark)
+
+## Profile Summary
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanna0601&theme=github_dark)
+
+## Repositories
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hanna0601&repo=REPO_NAME&theme=github_dark)](https://github.com/hanna0601/REPO_NAME)
+
